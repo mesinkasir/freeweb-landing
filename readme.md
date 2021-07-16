@@ -6,9 +6,7 @@ CMS No need a database for installation , make your website very fast and SEO fr
 
 How to install ?? [read documentation  →](https://axcora.com/getaxcoracms/index.php?id=get-started)
 
-[Test Drive demo →](https://webmurah.sourceforge.io/)
-
-[Pre demo →](https://mr-resto.sourceforge.io/)
+[Test Drive demo →](https://youtu.be/MNR7h2PnB2E)
 
 ---------------------------------
 
@@ -83,10 +81,6 @@ Click on setting menu
 + Change password
 + Change title website for SEO
 And save , Your website is online now 
-
-[Test Drive demo →](https://webmurah.sourceforge.io/)
-
-[Pre demo →](https://mr-resto.sourceforge.io/)
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
 
