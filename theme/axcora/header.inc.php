@@ -77,7 +77,7 @@
                                 <li><p><a href="mailto:axcora@gmail.com"><i class="fas fa-paper-plane"></i> Email</a></p></li>
                                 <li><p><a href="https://goo.gl/maps/AesyjofbV3ARaH1T6" target="_blank"><i class="fas fa-map-marker-alt"></i> Maps</a></p></li>
                                 <li><p><a href="https://mesinkasir.github.io/e-catalog/getaxcoracms.pdf" class="btn btn-danger col-12"><i class="fas fa-file-pdf"></i> E-Catalog</a></p></li>
-                                <li><p><a href="https://sourceforge.net/projects/webmurah/files/latest/download" target="_blank"><img alt="Download webmurah" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a></p></li>
+                                <li><p><a href="https://axcora.com/getaxcoracms/index.php?id=free-template-website-download" target="_blank">Download Now</a></p></li>
 								<li><p><a href="https://github.com/mesinkasir/freeweb-landing" target="_blank" class="btn btn-dark  col-12"><i class="fab fa-github"></i> Repository</a></p></li>
                             </ul>
                         </div>
